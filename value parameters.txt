@@ -64,6 +64,7 @@ public class StringExample
 }
 done
 
+
 calling methods
 
 /* CallingMethodsInSameClass.java
@@ -91,4 +92,5 @@ public class CallingMethodsInSameClass
 }
 done
 
-done my changes
+final copy
+
