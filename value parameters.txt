@@ -90,3 +90,5 @@ public class CallingMethodsInSameClass
 	}
 }
 done
+
+done my changes
